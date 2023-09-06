@@ -1,0 +1,61 @@
+.Navbar{
+    width: 100%;
+    height:20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(37, 37, 37);
+}
+
+ul li{
+    display: inline-block;
+    margin: 20px;
+    color:white;
+    font-size: 20px;
+
+}
+
+
+
+.search{
+    display: block;
+    position: absolute;
+    right: 20px;
+    margin-left: 100px;
+    
+
+    
+   
+
+}
+
+.Logo{
+    position: absolute;
+    left: 20px;
+    margin-right: 0px;
+    
+}
+
+.heading{
+    display: block;
+    color:white;
+    margin-top: 10px;
+    font-family: sans-serif;
+    
+}
+
+li:first-of-type{
+
+    margin-left: 60px;
+
+
+}
+
+li:last-of-type{
+    margin-right: 40px;
+}
+
+
+
+
+

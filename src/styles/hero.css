@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+.hero-image{
+    background-image: url(../Images/Hero-image.jpeg);
+    
+}
+
+.Title-on-hero{
+    color:white;
+    margin:0px;
+    text-align: left;
+    font-size: 70px;
+    position:absolute;
+    left: 50px;
+    top:250px;
+    font-family: 'Oswald', sans-serif;
+
+    
+
+
+}
+
+.text-below{
+
+    color:white;
+    margin:0px;
+    position: absolute;
+    top:350px;
+    left:60px;
+
+
+
+}
+
+.orange-button{
+    background-color: #ff630c;
+    width:200px;
+    height: 40px;
+    position: absolute;
+    top:400px;
+    left:60px;
+    border-radius: 4%;
+    color:white;
+    outline:none;
+    border: none;
+    padding-top: 0px;
+    padding-bottom:0px;
+    font-size: 20px;
+}
+
